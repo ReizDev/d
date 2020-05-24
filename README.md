@@ -1,2 +1,5 @@
-# d
-what's its the best lenguage of programming to start in develop?
+main.local.local
+{
+
+subject.default.log.system
+system= log void
